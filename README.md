@@ -2,9 +2,11 @@
 
 A full-stack Human Resource Management System built for modern organizations to streamline HR operations, from recruitment to payroll processing.
 
-<p align="center">
-  <video src="assets/demo.mp4" width="100%" controls autoplay muted loop></video>
-</p>
+
+
+https://github.com/user-attachments/assets/72454507-ae0d-45f9-a365-182ebabbbfcf
+
+
 
 ## Project Overview
 
