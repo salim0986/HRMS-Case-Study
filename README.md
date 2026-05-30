@@ -2,6 +2,10 @@
 
 A full-stack Human Resource Management System built for modern organizations to streamline HR operations, from recruitment to payroll processing.
 
+<p align="center">
+  <video src="assets/demo.mp4" width="100%" controls autoplay muted loop></video>
+</p>
+
 ## Project Overview
 
 This is an enterprise-grade HRMS platform I developed for internal organizational use. The system handles the complete employee lifecycle, including recruitment, onboarding, attendance tracking, leave management, payroll processing, and offboarding. Built with scalability and multi-tenancy in mind, it serves multiple departments within an organization while maintaining strict data isolation.
